@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf6fd31c46c4fe8f1f3bffb97c4a255d",
+    "revision": "54ad94e3470502eaae97335ca8eb0661",
     "url": "/Le-Melour/index.html"
   },
   {
-    "revision": "367a558a35c1652bdb55",
-    "url": "/Le-Melour/static/css/main.a070ac42.chunk.css"
+    "revision": "41a280a4e6ad4192fb65",
+    "url": "/Le-Melour/static/css/main.f1b0334a.chunk.css"
   },
   {
-    "revision": "b52c2dfb45870293663b",
-    "url": "/Le-Melour/static/js/2.e61949e1.chunk.js"
+    "revision": "206118772cb5d94e6a63",
+    "url": "/Le-Melour/static/js/2.6b44e9b1.chunk.js"
   },
   {
     "revision": "2d0dc3ea56ea29aa89323d664321ba6d",
-    "url": "/Le-Melour/static/js/2.e61949e1.chunk.js.LICENSE.txt"
+    "url": "/Le-Melour/static/js/2.6b44e9b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "367a558a35c1652bdb55",
-    "url": "/Le-Melour/static/js/main.bb45fcbc.chunk.js"
+    "revision": "41a280a4e6ad4192fb65",
+    "url": "/Le-Melour/static/js/main.be175f65.chunk.js"
   },
   {
     "revision": "0257d07e4c4d0a4813ef",
