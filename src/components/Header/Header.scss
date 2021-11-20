@@ -1,0 +1,71 @@
+@import "../../styles/utils";
+
+.header {
+  background-color: $c-bg-black2;
+  border-top: 1px solid #001427;
+  position: relative;
+  color: #fff;
+ 
+  
+  &__container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1260px;
+    margin: auto;
+    height: 65px;
+    align-items: center;
+    position: relative;
+
+    @media screen and (max-width: 1340px) {
+      & {
+        padding: 0 20px;
+      }
+    }
+  }
+  
+  &__link-fullscrn {
+    display: block;
+    border: 2px solid #18e8a4;
+    border-radius: 383px;
+    transition: color 0.3s;
+    padding: 10px 24px;
+  
+    &:hover {
+      color: $c-green;
+    }
+    
+    @media screen and (max-width: $break-point-tablet) {
+      & {
+        display: none;
+      }
+    }
+  }
+
+  &__link-tablet {
+    position: absolute;
+    bottom: -16px;
+    right: 44px;
+
+    @media screen and (min-width: 769px) {
+      & {
+        display: none;
+      }
+    }
+  }
+  
+  &__phone {
+    position: relative;
+    z-index: 3;
+  }
+    
+  &__nav {
+    box-sizing: border-box;
+    width: 324px;
+
+    @media screen and (max-width: $break-point-tablet) {
+      & {
+        width: 0;
+      }
+    }
+  }
+}

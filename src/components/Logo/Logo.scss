@@ -1,0 +1,10 @@
+@import "../../styles/utils";
+
+.logo {
+  background-image: url("../../images/logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 145px;
+  height: 40px;
+}

@@ -1,0 +1,17 @@
+@import "../../styles/utils";
+
+.main {
+  margin: 0 auto;
+
+  &__hero {
+    background-color: $c-bg-black2;
+    height: 315px;
+    padding-top: 90px;
+
+    @media screen and (max-width: $break-point-tablet) {
+      & {
+        padding-top: 49px;
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "le-melour",
-  "homepage": "",
+  "homepage": "https://andriifront.github.io/Le-Melour/",
   "version": "0.1.0",
   "keywords": [],
   "author": "Mate Academy",
@@ -11,7 +11,9 @@
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-redux": "^7.2.6",
+    "react-scripts": "3.4.3",
+    "redux": "^4.1.2"
   },
   "devDependencies": {
     "@mate-academy/eslint-config-react": "*",
