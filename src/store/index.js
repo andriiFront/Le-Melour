@@ -1,24 +1,24 @@
 import { combineReducers, createStore } from 'redux';
-import { goodsReducer } from './goodsReducer';
-import { carsReducer } from './carsReducer';
 import { navItemsReducer } from './navItemsReducer';
-
-export function getCars(state) {
-  return state.cars;
-}
-
-export function getGoods(state) {
-  return state.goods;
-}
+import { soxReducer } from './soxReducer';
+import { toyReducer } from './toyReducer';
 
 export function getNavItems(state) {
   return state.navItems;
 }
 
+export function getSox(state) {
+  return state.sox;
+}
+
+export function getToy(state) {
+  return state.toy;
+}
+
 const reducers = combineReducers({
   navItems: navItemsReducer,
-  cars: carsReducer,
-  goods: goodsReducer,
+  sox: soxReducer,
+  toy: toyReducer,
 });
 
 const store = createStore(reducers);
