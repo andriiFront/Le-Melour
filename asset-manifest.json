@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.df65b17e.chunk.css",
-    "main.js": "/static/js/main.058b0e9b.chunk.js",
-    "main.js.map": "/static/js/main.058b0e9b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c5dbdb37.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c5dbdb37.js.map",
-    "static/js/2.f9e2ad55.chunk.js": "/static/js/2.f9e2ad55.chunk.js",
-    "static/js/2.f9e2ad55.chunk.js.map": "/static/js/2.f9e2ad55.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.48110513dccbd025b27ba835b521f167.js": "/precache-manifest.48110513dccbd025b27ba835b521f167.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.df65b17e.chunk.css.map": "/static/css/main.df65b17e.chunk.css.map",
-    "static/js/2.f9e2ad55.chunk.js.LICENSE.txt": "/static/js/2.f9e2ad55.chunk.js.LICENSE.txt"
+    "main.css": "/Le-Melour/static/css/main.a070ac42.chunk.css",
+    "main.js": "/Le-Melour/static/js/main.bb45fcbc.chunk.js",
+    "main.js.map": "/Le-Melour/static/js/main.bb45fcbc.chunk.js.map",
+    "runtime-main.js": "/Le-Melour/static/js/runtime-main.ebc6879e.js",
+    "runtime-main.js.map": "/Le-Melour/static/js/runtime-main.ebc6879e.js.map",
+    "static/js/2.e61949e1.chunk.js": "/Le-Melour/static/js/2.e61949e1.chunk.js",
+    "static/js/2.e61949e1.chunk.js.map": "/Le-Melour/static/js/2.e61949e1.chunk.js.map",
+    "index.html": "/Le-Melour/index.html",
+    "precache-manifest.72c76f3925df7b7076a6721f467496d6.js": "/Le-Melour/precache-manifest.72c76f3925df7b7076a6721f467496d6.js",
+    "service-worker.js": "/Le-Melour/service-worker.js",
+    "static/css/main.a070ac42.chunk.css.map": "/Le-Melour/static/css/main.a070ac42.chunk.css.map",
+    "static/js/2.e61949e1.chunk.js.LICENSE.txt": "/Le-Melour/static/js/2.e61949e1.chunk.js.LICENSE.txt",
+    "static/media/Logo.scss": "/Le-Melour/static/media/logo.5d187f44.png",
+    "static/media/menu.svg": "/Le-Melour/static/media/menu.3388b539.svg",
+    "static/media/phone.svg": "/Le-Melour/static/media/phone.e7fae1c6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5dbdb37.js",
-    "static/js/2.f9e2ad55.chunk.js",
-    "static/css/main.df65b17e.chunk.css",
-    "static/js/main.058b0e9b.chunk.js"
+    "static/js/runtime-main.ebc6879e.js",
+    "static/js/2.e61949e1.chunk.js",
+    "static/css/main.a070ac42.chunk.css",
+    "static/js/main.bb45fcbc.chunk.js"
   ]
 }
